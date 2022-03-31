@@ -1,0 +1,13 @@
+.banner{
+	display: flex;
+	width: 2000px;
+	height: 200px;
+	background-color: lightgrey;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+	border: 2px solid black;
+}
